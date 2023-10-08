@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 ## 我是AQ 👋
 
-- 🐧 *
-- 👨‍💻 经历：<a href="#" target="_blank">关于我，一位程序员 UP 的成长史</a>
-- 🏡 作品：<a href="#" target="_blank">*</a>|<a href="#" target="_blank">*</a>
+- 🐧 简介：*
+- 👨‍💻 经历：<a href="#" target="_blank">关于我，一位程序员的成长史</a>
+- 🏡 作品：<a href="#" target="_blank">*</a>
 - 🌱 干货：<a href="#" target="_blank">*</a>
 - 😺 视频：<a href="#" target="_blank">*</a> | 抖音、YouTube、知乎 AQ
 - 📚 免费编程资源：<a href="#" target="_blank">*</a>
